@@ -1,5 +1,4 @@
-# Reality Repair Theory
-# A Manifesto Around Hydrogen Repairing Itself
+# Reality Repair Theory: A Manifesto
 
 ## Introduction: The Unavoidable Truth
 
